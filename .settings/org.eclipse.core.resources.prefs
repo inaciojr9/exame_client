@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/br/com/inaciojr9/exames/jaxws/Exame.java=UTF-8
+encoding//src/br/com/inaciojr9/exames/jaxws/ExameWs.java=UTF-8
+encoding//src/br/com/inaciojr9/exames/jaxws/ExameWsService.java=UTF-8
+encoding//src/br/com/inaciojr9/exames/jaxws/ExameWsServiceLocator.java=UTF-8
+encoding//src/br/com/inaciojr9/exames/jaxws/ExameWsServiceSoapBindingStub.java=UTF-8
